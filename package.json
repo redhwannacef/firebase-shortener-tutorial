@@ -1,0 +1,15 @@
+{
+  "name": "firebase-shortner-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase serve --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase-tools": "^9.3.0"
+  }
+}
